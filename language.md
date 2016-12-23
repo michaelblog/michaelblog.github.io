@@ -1,0 +1,7 @@
+- [nim](http://nim-lang.org/)
+- [kotlinlang](http://kotlinlang.org/)
+- [clojure](http://www.clojure.org/)
+- [hacklang](http://hacklang.org)
+- [elixir-lang](https://github.com/elixir-lang/elixir)
+- [erlang](http://www.erlang.org/)
+- [swift](https://developer.apple.com/swift/)

@@ -1,0 +1,13 @@
+- [impress.js](https://github.com/impress/impress.js)
+- [reveal.js](https://github.com/hakimel/reveal.js)
+- [html5boilerplate](https://html5boilerplate.com/)
+- [semantic-ui](http://semantic-ui.com/)
+- [mui](https://github.com/dcloudio/mui)
+- [icomoon](https://icomoon.io/)
+- [glyphicons](http://glyphicons.com/)
+- [fontawesome](http://fontawesome.io/)
+- [getbootstrap](http://getbootstrap.com)
+  - https://startbootstrap.com/template-categories/admin-dashboard/
+  - http://themes.getbootstrap.com/collections/all
+  - http://expo.getbootstrap.com/
+  - https://github.com/twbs/bootlint

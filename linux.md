@@ -1,0 +1,48 @@
+- dstat
+- top
+- strace
+- crontab
+  - /var/spool/cron/root
+  - /var/log/syslog
+- ping;sudo arp
+- fd:ulimit,/etc/security/limits.conf
+- ls -liaha; find . -inum 54263996 -exec rm {} -rf \;
+- ls -il
+- find . -inum 10881541|xargs -i rm -rf {}
+- iftop
+- netstat
+- https://github.com/raboof/nethogs/
+- iptraf
+- ethtool
+- tcpdump
+- ss
+- slurm
+- nload
+- https://github.com/tgraf/bmon
+- tcptrac
+- tcptrack -i eth0
+- vnstat
+- speedometer -r eth0 -t eth0
+- pktstat -i eth0 -nt
+- netwatch -e eth0 -nt /sudo trafshow -i eth0 tcp (sudo apt-get install netdiag)
+- collectl -sn -oT -i0.5
+- vmstat
+- lsof
+- traceroute baidu.com
+- sar -o 2 3
+- logwatch
+- multitail
+- tar -czf – * | openssl enc -e -aes256 -out secured.tar.gz
+- openssl enc -d -aes256 -in secured.tar.gz | tar xz
+- openssl rand -base64 14
+- < /dev/urandom tr -dc A-Za-z0-9 | head -c14; echo
+- pwgen 14 1 gpg --gen-random --armor 1 14
+- echo “Test” | mail -s “Test ” root
+- /etc/mailname
+- https://www.ibm.com/developerworks/cn/linux/l-inotify/
+- screen
+- curl
+- awk
+- nl
+- cut
+- tee

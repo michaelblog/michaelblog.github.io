@@ -1,0 +1,4 @@
+- [Fabric](http://www.fabfile.org/)
+- [configserver](http://configserver.com/)
+- [webmin](http://www.webmin.com)
+- [bamboo](https://www.atlassian.com/software/bamboo)

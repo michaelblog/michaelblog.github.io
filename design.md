@@ -1,0 +1,5 @@
+- [maya](http://www.autodesk.com.cn/products/maya/overview)
+- [3ds-max](http://www.autodesk.com.cn/products/3ds-max/overview)
+- [cinema-4d](https://www.maxon.net/en/products/cinema-4d/overview/)
+- [solidworks](http://www.solidworks.com/)
+- [sketch](https://www.sketchapp.com/)

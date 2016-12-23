@@ -1,0 +1,4 @@
+- robots.txt
+  - https://en.wikipedia.org/wiki/Robots_exclusion_standard
+  - https://en.wikipedia.org/wiki/Meta_element#The_robots_attribute
+  - http://tool.chinaz.com/
